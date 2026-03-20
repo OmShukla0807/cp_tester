@@ -1,0 +1,13 @@
+# Python environment and cache
+__pycache__/
+venv/
+env/
+.env
+
+# C++ and compiled files
+*.cpp
+*.exe
+*.out
+*.o
+
+contests/
